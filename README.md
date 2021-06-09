@@ -1,7 +1,7 @@
-- SHello! I am Burak.
+- Hello! I am Burak.
 - Python, JavaScript are my interests
 
-☎ ・Contact me!
+- ☎ ・Contact me!
 
 Discord: Burak#2466
 Discord 2: Estenha#4886
