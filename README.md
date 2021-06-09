@@ -1,8 +1,10 @@
+<a href="https://github.com/BurakYs/">About Me</a>
+
 - Hello! I am Burak.
 - Python, JavaScript are my interests
 
-- ☎ ・Contact me!
+<a href="https://discord.com">☎ ・Contact me!/a>
+
 
 Discord: Burak#2466
 Discord 2: Estenha#4886
-<!-----Ne bekliyordun amk bu kadar ------>
