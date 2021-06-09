@@ -1,7 +1,8 @@
-- Selam! Ben Burak.
-- Python, JavaScript ilgi alanlarım
+- SHello! I am Burak.
+- Python, JavaScript are my interests
 
-☎ ・Bana Ulaş!
+☎ ・Contact me!
 
 Discord: Burak#2466
+Discord 2: Estenha#4886
 <!-----Ne bekliyordun amk bu kadar ------>
