@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.buraky.live](https://www.buraky.live)
 
-- 💬 Ask me about **NodeJS, Canvas, Vue**
+- 💬 Ask me about **NodeJS, Canvas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
