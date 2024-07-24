@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Rookie Spitfire](https://rookie-spitfire.xyz)
+- 🔭 I’m currently working on [VidGet](https://github.com/BurakYs/VidGet)
 
 - 👨‍💻 All of my projects are available at [https://www.buraky.live](https://www.buraky.live)
 
