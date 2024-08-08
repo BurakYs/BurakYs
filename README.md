@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [VidGet](https://github.com/BurakYs/VidGet)
 
-- 👨‍💻 All of my projects are available at [https://www.buraky.live](https://www.buraky.live)
+- 👨‍💻 All of my projects are available at [https://www.buraky.dev](https://www.buraky.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
