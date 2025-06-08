@@ -24,5 +24,3 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakys&show_icons=true&theme=dark&locale=en" alt="burakys" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BurakYs&theme=dark&hide_border=true" alt="streak" /></p>
-<p>&nbsp;<img align="center" src="https://visitcount.itsvg.in/api?id=BurakYs&icon=3&color=12" alt="profile views" /></p>
