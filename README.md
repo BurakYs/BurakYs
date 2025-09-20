@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [](https://github.com/BurakYs/)-->
 
-- 👨‍💻 All of my projects are available at [buraky.dev](https://www.buraky.dev)
+- 👨‍💻 All of my projects are available at [buraky.dev](https://buraky.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,3 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40" /> </a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakys&show_icons=true&theme=dark&locale=en" alt="burakys" /></p>
